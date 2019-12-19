@@ -1,12 +1,10 @@
 # Notebook Viewer:  
 (Notebooks as static web pages)  
-[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithR-apr18/tree/master/)
-https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/Rprogramming/master
-
-
-# Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/Rprogramming/master)
-
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/DataScienceTraining-NonProfit/Rprogramming/tree/master/)
+  
+# Binder:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/Rprogramming/master)  
+  
 # RStudio Cloud: 
 [![R studio](http://mybinder.org/badge_logo.svg)](https://rstudio.cloud/)
     
