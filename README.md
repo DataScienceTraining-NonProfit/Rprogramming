@@ -6,7 +6,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/Rprogramming/master)  
   
 # RStudio Cloud: 
-[![R studio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png)](https://rstudio.cloud/)
+[![R studio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/200px-RStudio_logo_flat.svg.png)](https://rstudio.cloud/)
     
 # Download directory/folder (paste link address)    
 (*right click below link and paste the url path of the directory you wish to download*)  
