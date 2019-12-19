@@ -2,18 +2,9 @@
 (Notebooks as static web pages)  
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithR-apr18/tree/master/)
 
-
-# Microsoft Azure Notebooks
-(Cloud hosted notebooks)  
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIMLwithR)
-
 # RStudio Cloud: 
 [![R studio](http://mybinder.org/badge_logo.svg)](https://rstudio.cloud/)
     
-# Gitter chat: 
-(for quries)  
-[![Join the chat at https://gitter.im/DSwRandP-apr18/Lobby](https://badges.gitter.im/DSwRandP-apr18/Lobby.svg)](https://gitter.im/DSwRandP-apr18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 # Download directory/folder (paste link address)    
 (*right click below link and paste the url path of the directory you wish to download*)  
 :arrow_down:https://goo.gl/QkH3sC
